@@ -1,0 +1,9 @@
+@font-face {
+    src: url("src/assets/fonts/nyashasans.ttf");
+    font-family: 'Nyasha';
+}
+*{
+    margin: 0 ;
+    box-sizing: border-box;
+}
+
